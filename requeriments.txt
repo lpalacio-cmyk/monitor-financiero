@@ -1,6 +1,0 @@
-streamlit
-requests
-beautifulsoup4==4.12.3
-openpyxl
-pandas
-urllib3
